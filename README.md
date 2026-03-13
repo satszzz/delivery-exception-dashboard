@@ -2,6 +2,13 @@
 
 An internal operations tool designed for **GreyAtom Logistics** to log, track, and manage delivery exceptions efficiently.
 
+## Live Demo
+
+The project is deployed using Netlify.
+
+🔗 Live Website:  
+https://sprightly-entremet-dd7f2f.netlify.app
+
 ## Features
 
 - **Log Exceptions:** Easily submit new exceptions with Delivery ID, Customer Name, Issue Type, Priority, and Notes.
